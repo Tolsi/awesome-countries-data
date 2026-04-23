@@ -26,8 +26,10 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [Press, Media & Internet](#press-media--internet)
 - [Culture, Religion & Languages](#culture-religion--languages)
 - [Agriculture & Food Security](#agriculture--food-security)
+- [Water & Sanitation](#water--sanitation)
 - [Transport & Infrastructure](#transport--infrastructure)
 - [Taxes & Business](#taxes--business)
+- [Labor & Workers](#labor--workers)
 - [Geo, Maps & Borders](#geo-maps--borders)
 - [Open APIs & Data Libraries](#open-apis--data-libraries)
 
@@ -50,6 +52,10 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [Nationmaster](https://www.nationmaster.com/) — Country comparison across thousands of indicators.
 - [Wikipedia: Lists by country](https://en.wikipedia.org/wiki/Lists_of_countries_and_territories) — Aggregated lists.
 - [Indexmundi](https://www.indexmundi.com/) — Charts and rankings across many indicators.
+- [Open Data Inventory (ODIN)](https://odin.opendatawatch.com/) — National statistical system quality and openness (~180 countries). Metrics: data coverage (breadth of topics), data openness (machine-readability, licensing, bulk download) across 22 categories.
+- [UNCTADStat](https://unctadstat.unctad.org/) — UNCTAD statistical hub with country profiles. Metrics: merchandise trade, FDI flows, maritime transport connectivity (LSCI), commodity dependence, e-commerce readiness, development indicators. Distinct from World Bank/IMF in development-trade focus.
+- [EBRD Transition Report](https://www.ebrd.com/home/news-and-events/publications/economics/transition-reports/) — Annual structural reform and macro data for 38 transition economies (Eastern Europe, Central Asia, MENA). Metrics: reform progress scores, green economy transition, Knowledge Economy Index (38 indicators across 4 innovation pillars).
+- [IDB Open Data Portal](https://data.iadb.org/) — Inter-American Development Bank data for 26 Latin American and Caribbean countries (1,700+ indicators, series from 1940). Metrics: macro (Latin Macro Watch), social indicators, agricultural policy (Agrimonitor), trade integration (INTrade).
 
 ## Human Development & Quality of Life
 
@@ -64,6 +70,11 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [U.S. News Best Countries](https://www.usnews.com/news/best-countries/rankings) — Perception-based ranking via 17k+ global citizens. Sub-rankings: adventure, agility, cultural influence, entrepreneurship, heritage, power, quality of life, social purpose, open for business.
 - [SDG Index (SDSN)](https://dashboards.sdgindex.org/) — Progress toward all 17 UN Sustainable Development Goals. 167 countries scored 0–100. Includes per-SDG dashboards and trend arrows.
 - [InterNations Expat Insider](https://www.internations.org/expat-insider/) — Annual survey of 10k+ expats. Metrics: working abroad, personal finance, quality of life, expat essentials, ease of settling in.
+- [World Bank Human Capital Index (HCI)](https://www.worldbank.org/en/publication/human-capital) — Human capital a child born today can expect to accumulate by age 18. Metrics: survival to age 5, expected school years, harmonized test scores, adult survival rate, stunting rate (0–1 composite, 174 countries).
+- [EIU Global Liveability Index](https://www.eiu.com/n/campaigns/global-liveability-index/) — Annual city liveability ranking (173 cities). Metrics: stability, healthcare, culture & environment, education, infrastructure. 0–100 score, annual series since 2002.
+- [IMD Smart City Index](https://www.imd.org/smart-city-observatory/home/) — Resident-perception smart city ranking (142+ cities, 120 surveys per city). Metrics: structures (physical infrastructure) and technology (digital services) across health/safety, mobility, economic opportunities, governance digitalization.
+- [Global Power City Index (GPCI)](https://mori-m-foundation.or.jp/english/ius2/gpci2/index.shtml) — City magnetism for people, capital, enterprises (48 major cities). Metrics: economy, R&D, cultural interaction, livability, environment, accessibility. Annual, Mori Memorial Foundation.
+- [Demographia International Housing Affordability](http://www.demographia.com/dhi.pdf) — Housing affordability in 95 major markets across 8 nations (Australia, Canada, China, Ireland, NZ, Singapore, UK, USA). Metrics: median multiple (house price / household income), affordability bands (affordable ≤3.0 → impossibly unaffordable ≥9.0).
 
 ## Economy & Finance
 
@@ -87,6 +98,22 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [Global Debt Monitor (IIF)](https://www.iif.com/Products/Global-Debt-Monitor) — Government, corporate, and household debt.
 - [Kearney FDI Confidence Index](https://www.kearney.com/service/global-business-policy-council/foreign-direct-investment-confidence-index) — Annual survey of 500+ executives. Ranks markets likely to attract most FDI in next 3 years.
 - [Natixis Global Retirement Index](https://www.im.natixis.com/en-us/insights/investor-sentiment/2025/global-retirement-index) — 44 developed countries. Metrics: health, quality of life, material wellbeing, finances in retirement.
+- [Mercer CFA Institute Global Pension Index](https://www.mercer.com/insights/investments/market-outlook-and-trends/mercer-cfa-global-pension-index/) — Pension system design quality (48 systems, 65% of world population). Metrics: adequacy of benefit levels, sustainability given demographics, integrity of regulation and governance. A–E grade.
+- [Global Findex Database (World Bank)](https://www.worldbank.org/en/publication/globalfindex) — Financial inclusion demand-side survey (141 economies, ~150k adults). Metrics: account ownership, digital payments, savings, borrowing, mobile money by income quintile and gender.
+- [IMF Financial Development Index](https://data.imf.org/?sk=f8032e80-b36c-43b1-ac26-493c5b1cd33b) — Financial system depth (180+ countries). Metrics: financial institutions and markets depth, access, efficiency — composite and sub-index scores.
+- [Atlas of Economic Complexity (Harvard Growth Lab)](https://atlas.hks.harvard.edu/) — Economic Complexity Index (ECI). Metrics: country ECI ranking, product space diversity, 10-year GDP per capita growth forecasts by country.
+- [International Property Rights Index (IPRI)](https://internationalpropertyrightsindex.org/) — Property rights protection (125 countries). Metrics: legal & political environment, physical property rights (registration, credit access), intellectual property rights (patents, copyright, trademarks).
+- [Sovereign Wealth Fund Institute (SWFI)](https://www.swfinstitute.org/fund-rankings/sovereign-wealth-fund) — SWF rankings. Metrics: fund AUM, country of origin, asset allocation, Linaburg-Maduell Transparency Index.
+- [PRS Group International Country Risk Guide (ICRG)](https://www.prsgroup.com/explore-our-products/icrg/) — Country risk ratings since 1980 (141 countries, monthly). Metrics: political risk (12 components: government stability, conflict, corruption, law & order, democratic accountability), economic risk, financial risk.
+- [Coface Country Risk Assessment](https://www.coface.com/news-economy-and-insights/business-risk-dashboard/country-risk-map) — Country and trade credit risk (160 countries, quarterly). Metrics: country risk rating (A1–D), business climate assessment, sector risk overlays.
+- [Allianz Trade Country Risk Atlas](https://www.allianz-trade.com/en_global/news-insights/news/allianz-trade-country-risk-atlas.html) — Trade credit and non-payment risk (84+ countries, quarterly). Metrics: country grade (AA–D), risk level (1–4), financial flows and cyclical risk indicators.
+- [OECD Country Risk Classification](https://www.oecd.org/en/topics/country-risk-classification.html) — Official export credit risk classification used by OECD ECAs (150+ countries). Metrics: risk category 0–7 (transfer/convertibility + force majeure risk). Basis for minimum export credit premium rates globally.
+- [OECD Consumer & Business Confidence Indices](https://data.oecd.org/leadind/consumer-confidence-index-cci.htm) — Monthly sentiment (40+ economies). Metrics: Consumer Confidence Index (CCI) and Business Confidence Index (BCI), both normalised to 100 baseline; composite leading indicator (CLI) with turning-point signals.
+- [OECD TiVA (Trade in Value Added)](https://oe.cd/tiva) — Global value chain analysis (76 economies, 45 industries, 1995–2020). Metrics: domestic vs. foreign value added in exports, GVC participation index, backward/forward integration, bilateral value-added trade flows.
+- [Z/Yen Global Financial Centres Index (GFCI)](https://www.longfinance.net/programmes/financial-centre-futures/global-financial-centres-index/) — Financial centre competitiveness (121 centres, twice yearly). Metrics: business environment, human capital, infrastructure, financial sector development, fintech, green finance.
+- [UNEP Inclusive Wealth Index](https://www.unep.org/resources/report/inclusive-wealth-report) — Beyond-GDP wealth measure (163 countries, 1990–2019). Metrics: produced capital, human capital, natural capital per capita; annual growth rates; natural capital depletion risk.
+- [Geopolitical Risk Index (Caldara & Iacoviello)](https://www.matteoiacoviello.com/gpr.htm) — Text-based geopolitical threat index (monthly, 44 country-specific series, back to 1900). Metrics: GPR Threat sub-index, GPR Act sub-index; 8 categories: war threats/acts, nuclear threats, terror threats/acts, military buildups.
+- [Commitment to Development Index (CGD)](https://www.cgdev.org/cdi) — Rich-country policy impact on developing world (40 countries). Metrics: finance (aid quality, tax haven behaviour), technology, environment (GHG, fisheries subsidies), trade tariffs, security, migration, health, investment.
 
 ## Demographics & Population
 
@@ -113,6 +140,8 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [Human Rights Watch World Report](https://www.hrw.org/world-report) — Human rights violations.
 - [US State Department Human Rights Reports](https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/) — Annual country reports.
 - [Rule of Law Index (WJP)](https://worldjusticeproject.org/rule-of-law-index/) — 8 factors: constraints on government, absence of corruption, open government, fundamental rights, order, civil and criminal justice.
+- [Global Slavery Index (Walk Free)](https://www.walkfree.org/global-slavery-index/) — Modern slavery (160 countries). Metrics: prevalence per 1,000 people, total numbers, government response score (A–F), vulnerability factors (governance, social protection, inequality, conflict).
+- [International IDEA Global State of Democracy Indices (GSoD)](https://www.idea.int/democracytracker/gsod-indices) — 30 democracy sub-indices (173 countries, 1975–present). Metrics: representation, rights, rule of law, participation — plus electoral integrity, civil liberties, judicial independence, media integrity. Fully open download.
 
 ## Corruption & Governance
 
@@ -123,6 +152,16 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [Tax Justice Network — Financial Secrecy Index](https://fsi.taxjustice.net/) — Financial secrecy.
 - [Open Budget Index](https://internationalbudget.org/open-budget-survey) — Budget transparency.
 - [Ibrahim Index of African Governance (IIAG)](https://mo.ibrahim.foundation/iiag) — 54 African countries. 81 indicators across security & rule of law, participation & human rights, sustainable economic opportunity, human development.
+- [FATF High-Risk Jurisdictions](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — AML/CFT compliance blacklist and grey list (updated 3× per year). Metrics: blacklist/grey-list status, strategic deficiencies identified, action plan compliance timeline.
+- [PEFA (Public Expenditure and Financial Accountability)](https://www.pefa.org/assessments) — Public financial management quality (country assessment reports). Metrics: 31 indicators across budget credibility, transparency, execution, accounting/reporting, and external audit.
+- [Government Defence Integrity Index (GDI)](https://ti-defence.org/gdi/) — Institutional corruption risk in defence and security sectors (~90 countries). Metrics: five risk pillars (financial, operational, personnel, political, procurement), 77 indicators. A–F risk band.
+- [EITI Country Compliance](https://eiti.org/) — Extractive industries revenue transparency (55 member countries). Metrics: validation score (0–100), contract disclosure, beneficial ownership disclosure, revenue data completeness. Status: Compliant / Satisfactory / Inadequate / Suspended.
+- [Resource Governance Index (NRGI)](https://resourcegovernanceindex.org/) — Governance quality of oil, gas, and mining sectors in resource-rich countries. Metrics: value realization (licensing, contracts, taxation), revenue management, enabling environment. 0–100 score.
+- [Atlas of Impunity (Eurasia Group)](https://www.eurasiagroup.net/live-post/atlas-of-impunity-2024) — Multi-domain impunity measure (170 countries, 60 indicators). Metrics: unaccountable governance, human rights abuses, economic exploitation, conflict and violence, environmental degradation. 0–5 scale.
+- [Aid Transparency Index (Publish What You Fund)](https://www.publishwhatyoufund.org/the-index/) — Transparency of the 50 largest development donors. Metrics: IATI data completeness, frequency, timeliness, interlinkage. 0–100 score, tier classification (very good → very poor).
+- [TRACE Bribery Risk Matrix](https://www.traceinternational.org/trace-matrix) — Commercial bribery risk for businesses (194 countries). Metrics: opportunity (govt interaction), anti-bribery deterrence, transparency, oversight capacity. 0–100 score, distinct from CPI in B2G bribery focus.
+- [Prindex — Global Property Rights Index](https://www.prindex.net/) — Perception-based land and housing tenure security (108 countries, ~5 billion people). Metrics: % adults feeling insecure in land/housing rights, disaggregated by gender/income/urban-rural, formal vs. informal tenure.
+- [Bertelsmann SGI (Sustainable Governance Indicators)](https://www.sgi-network.org/) — Governance quality in 30 OECD/EU countries. Metrics: sustainable policymaking (economic, social, environmental outcomes), governing with foresight (strategic capacity, evidence-based decisions), democratic government (rule of law, civil rights, media freedom).
 
 ## Peace, Security & Crime
 
@@ -137,6 +176,9 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [OSAC](https://www.osac.gov/) — Safety/security reports for travelers.
 - [Small Arms Survey](https://www.smallarmssurvey.org/) — Small arms circulation.
 - [Global Organized Crime Index](https://ocindex.net/) — Organized crime + resilience scores.
+- [INFORM Global Risk Index](https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Risk/Results-and-data) — Humanitarian crisis and disaster risk (191 countries, EU/UN). Metrics: hazard & exposure (natural + human), vulnerability, lack of coping capacity. 80 indicators, open data.
+- [WorldRiskIndex](https://weltrisikobericht.de/worldriskreport/) — Disaster risk with focus on social vulnerability (193 countries). Metrics: natural hazard exposure, susceptibility, lack of coping capacity, lack of adaptive capacity.
+- [Lowy Global Diplomacy Index](https://globaldiplomacyindex.lowyinstitute.org/) — Diplomatic network size (66 countries). Metrics: embassies, high commissions, consulates-general, permanent missions and other posts worldwide.
 
 ## Military & Defense
 
@@ -154,6 +196,7 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [Happy Planet Index](https://happyplanetindex.org/) — Wellbeing adjusted for ecological footprint.
 - [Ipsos Global Happiness](https://www.ipsos.com/en/global-happiness-study) — Happiness survey.
 - [World Values Survey](https://www.worldvaluessurvey.org/) — Values, attitudes, beliefs.
+- [Gallup Global Emotions Report](https://www.gallup.com/analytics/349280/gallup-global-emotions-report.aspx) — Daily emotional experience survey (142 countries, ~146k adults). Metrics: Positive Experience Index (enjoyment, learning, respect, laughter) and Negative Experience Index (worry, stress, sadness, anger, pain). Distinct from Cantril ladder life evaluation.
 
 ## Education
 
@@ -167,6 +210,7 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [U21 Ranking of National Higher Education Systems](https://universitas21.com/rankings) — Quality of national higher education systems.
 - [Global Talent Competitiveness Index](https://www.insead.edu/institutes/global-talent-competitiveness-index) — Talent attraction and development.
 - [EF English Proficiency Index](https://www.ef.com/wwen/epi/) — English language skills by country. 100+ countries ranked by test scores. Metrics: proficiency band (very high → very low), regional breakdowns, gender/age gaps.
+- [OECD PIAAC (Adult Skills Survey)](https://www.oecd.org/en/about/programmes/piaac.html) — Only global adult competency assessment (31 countries, ages 16–65). Metrics: literacy, numeracy, and adaptive problem-solving proficiency scores; share at low vs. high skill levels by age and education.
 
 ## Health & Medicine
 
@@ -181,6 +225,16 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [Our World in Data COVID-19](https://ourworldindata.org/coronavirus) — Cases, deaths, vaccinations.
 - [World Drug Report (UNODC)](https://www.unodc.org/unodc/en/data-and-analysis/world-drug-report.html) — Drug use statistics.
 - [Commonwealth Fund Mirror, Mirror](https://www.commonwealthfund.org/series/mirror-mirror-comparing-health-systems-across-countries) — Healthcare system performance (10 high-income countries). 70 measures across 5 domains: access, care process, administrative efficiency, equity, health outcomes.
+- [WHO UHC Service Coverage Index](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/uhc-index-of-service-coverage) — Universal health coverage progress (SDG 3.8.1, 180+ countries). Metrics: 14 tracer indicators across reproductive/maternal/child health, infectious diseases, NCDs, and service capacity. 0–100 composite score.
+- [WHO Global Status Report on Road Safety](https://www.who.int/publications/i/item/9789240087712) — Road traffic deaths (170 countries). Metrics: death rate per 100k population, road user type breakdown, quality of speed/drink-driving/helmet/seatbelt laws.
+- [WHO Mental Health Atlas](https://www.who.int/publications/i/item/9789240114487) — Mental health system capacity (144 countries). Metrics: mental health expenditure (% of health budget), beds and workforce per 100k, legislation, community-based care availability.
+- [Global Drug Policy Index](https://globaldrugpolicyindex.net/) — Drug policy alignment with human rights and health (30+ countries, 0–100). Metrics: absence of extreme responses (death penalty, forced treatment), criminal justice proportionality, harm reduction services, access to controlled medicines.
+- [Global Nutrition Report — Country Profiles](https://globalnutritionreport.org/resources/nutrition-profiles/) — All forms of malnutrition (193 countries). Metrics: stunting, wasting, overweight/obesity (children and adults), anaemia, low birthweight, breastfeeding rates, WHA nutrition target on-track/off-track status.
+- [UNICEF Innocenti Report Card](https://www.unicef.org/innocenti/projects/report-card) — Child wellbeing in rich countries (~40 OECD/EU). Metrics: life satisfaction, adolescent suicide, child mortality, overweight rates, academic proficiency, social skills. 5-year trend tracking.
+- [WHO-UNICEF-Lancet Child Flourishing Index](https://www.who.int/publications/i/item/measuring-children-s-well-being-the-child-flourishing-and-futures-index) — Child survival, wellbeing, and sustainability balance (180 countries). Metrics: health, education, nutrition (SDG-based) combined with CO2 footprint and equity scores.
+- [WHO NCD Progress Monitor](https://www.who.int/publications/i/item/9789240105775) — NCD policy capacity and risk factor prevalence (194 countries). Metrics: premature NCD mortality risk (ages 30–70), tobacco/alcohol/obesity/physical inactivity rates, hypertension/diabetes prevalence, national policy capacity score.
+- [Lancet Countdown on Health and Climate Change](https://lancetcountdown.org/) — Annual tracking of climate change health impacts (50+ indicators). Metrics: heat-related mortality, labour capacity loss from heat, infectious disease transmission suitability changes, health system adaptation, clean energy health co-benefits. Country data sheets per nation.
+- [WHO GLASS (Global Antimicrobial Resistance Surveillance)](https://www.who.int/initiatives/glass) — AMR surveillance (141 countries, 2016–2023). Metrics: resistance rates for priority bacteria (E. coli, K. pneumoniae, S. aureus) to key antibiotic classes; antibiotic consumption per 1,000 population; country profile scorecards.
 
 ## Environment & Climate
 
@@ -198,6 +252,9 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [UNEP Environmental Data Explorer](https://www.unep.org/resources/data-hub) — Environmental data.
 - [Ocean Health Index (OHI)](https://oceanhealthindex.org/) — 220 coastal EEZ areas. Metrics: food provision, artisanal fishing, natural products, coastal protection, carbon storage, tourism, biodiversity, clean waters, livelihoods.
 - [WeatherSpark](https://weatherspark.com/) — Climate and weather by city/country with rich statistical breakdowns. Metrics: temperature (hourly/daily/perceived, comfort bands), cloud cover, precipitation (rain/snow/mixed), wind speed/direction, humidity, dew point, daylight/twilight hours, solar energy (kWh), moon phases, water temperature, growing season, tourism score — all with historical distributions and seasonal patterns.
+- [MIT Technology Review Green Future Index](https://www.technologyreview.com/2023/04/05/1070581/the-green-future-index-2023/) — Low-carbon transition pace (76 economies). Metrics: carbon emissions trajectory, energy transition, green society, clean innovation, climate policy.
+- [Climate Action Tracker (CAT)](https://climateactiontracker.org/) — Country climate policy rating vs Paris Agreement 1.5°C limit (40 countries, ~85% of global emissions). Metrics: overall rating (1.5°C compatible → Critically Insufficient), policies & action score, NDC target rating, projected warming contribution.
+- [World Bank Carbon Pricing Dashboard](https://carbonpricingdashboard.worldbank.org/) — All implemented carbon taxes and ETS globally (80+ instruments, annual prices). Metrics: instrument type, GHG coverage (%), current price (USD/tCO2e), revenue generated, sectors covered.
 
 ## Energy
 
@@ -208,6 +265,9 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [Ember Climate](https://ember-climate.org/) — Electricity and climate.
 - [Electricity Maps](https://app.electricitymaps.com/) — Real-time CO2 intensity of electricity grids.
 - [EY Renewable Energy Country Attractiveness Index (RECAI)](https://www.ey.com/en_gl/insights/energy-resources/renewable-energy-country-attractiveness-index) — Top 40 markets for renewables investment. Metrics: energy transition readiness, technology-specific attractiveness (solar, wind, storage).
+- [World Energy Trilemma Index (WEC)](https://trilemma.worldenergy.org/) — Energy system balance (126 countries, annual since 2010). Metrics: energy security (reliability, resilience), energy equity (access, affordability), environmental sustainability. Three sub-scores + overall letter grade (AAA–DDD).
+- [BloombergNEF Climatescope](https://www.global-climatescope.org/) — Clean energy transition readiness in emerging markets (140 countries). Metrics: policy framework, clean energy investment flows, market structure, grid tariffs, fossil fuel subsidies, off-grid market indicators.
+- [World Bank RISE (Regulatory Indicators for Sustainable Energy)](https://rise.esmap.org/) — Energy policy and regulatory frameworks (140 countries, biennial). Metrics: renewable energy targets/policy, energy efficiency standards, electricity access regulations, clean cooking support, carbon pricing, grid interconnection rules.
 
 ## Technology, Innovation & Digitalization
 
@@ -228,6 +288,7 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [National Cyber Security Index (NCSI)](https://ncsi.ega.ee/) — Cybersecurity policy implementation. Metrics: baseline cyber capability, digital development indicators, incident response, military cyber ops, e-identification.
 - [Digital Quality of Life Index (Surfshark)](https://surfshark.com/research/dql) — 120+ countries. Metrics: internet affordability, internet quality, e-infrastructure, e-security, e-government.
 - [Chainalysis Global Crypto Adoption Index](https://www.chainalysis.com/blog/2025-global-crypto-adoption-index/) — Grassroots crypto adoption by country. Metrics: on-chain value, retail transfers, P2P volume — weighted by PPP and internet users.
+- [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) — Mobile internet adoption enablers (170+ countries). Metrics: infrastructure, affordability, consumer readiness, content & services (32 indicators). Countries tiered from Discoverer to Leader.
 
 ## Gender Equality
 
@@ -236,6 +297,7 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [OECD SIGI](https://www.genderindex.org/) — Discrimination in social institutions.
 - [Women, Peace and Security Index](https://giwps.georgetown.edu/the-index/) — GIWPS. Inclusion, justice, security.
 - [EIGE Gender Equality Index](https://eige.europa.eu/gender-equality-index) — EU only.
+- [GEM Women's Entrepreneurship Report](https://gemconsortium.org/report/gem-20242025-womens-entrepreneurship-report-navigating-challenges-driving-change-2) — Female entrepreneurial activity (51 countries, 160k+ respondents). Metrics: female TEA rate, gender TEA gap, motivational index (necessity vs. opportunity), female share of tech startups, perceived barriers.
 
 ## Migration & Refugees
 
@@ -245,6 +307,7 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [World Bank Migration and Remittances](https://www.knomad.org/data/remittances) — Migrant remittances.
 - [OECD International Migration Outlook](https://www.oecd.org/migration/international-migration-outlook-1999124x.htm) — OECD migration flows.
 - [MIPEX (Migrant Integration Policy Index)](https://www.mipex.eu/) — Integration policy.
+- [Remittance Prices Worldwide (World Bank)](https://remittanceprices.worldbank.org/) — Cost of sending remittances (367 corridors, 48 sending + 105 receiving countries, quarterly). Metrics: total cost (% and USD), exchange rate margin, fee component, SDG 10.c.1 target tracking (below 3%). Distinct from macro remittance flows data.
 
 ## Tourism, Passports & Visas
 
@@ -254,6 +317,7 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [Passport Index (Arton)](https://www.passportindex.org/) — Passport ranking with visualization.
 - [WEF Travel & Tourism Development Index](https://www.weforum.org/reports/travel-tourism-development-index-2024/) — Tourism competitiveness.
 - [Mastercard Global Destination Cities Index](https://www.mastercard.com/news/insights/2023/global-destination-cities-index-2023/) — International arrivals by city.
+- [UN Tourism Visa Openness Report](https://www.e-unwto.org/doi/10.18111/9789284425044) — Country openness as a tourist destination. Metrics: visa requirement categories (visa-free, on arrival, e-visa, visa required) by region and country of origin.
 
 ## Press, Media & Internet
 
@@ -278,6 +342,13 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [Soft Power Index (Brand Finance)](https://brandfinance.com/insights/global-soft-power-index) — Soft power.
 - [FIFA World Rankings](https://inside.fifa.com/fifa-world-ranking) — Football rankings.
 - [Olympedia](https://www.olympedia.org/) — Olympic medal counts.
+- [Afrobarometer](https://www.afrobarometer.org/data/) — Public opinion surveys in 38 African countries. Metrics: democratic satisfaction, institutional trust, corruption experience, economic perceptions, public service access.
+- [Latinobarometer](https://www.latinobarometro.org/) — Annual public opinion survey in 18 Latin American countries (since 1995). Metrics: democratic values, presidential approval, corruption perceptions, economic outlook, interpersonal trust.
+- [Arab Barometer](https://www.arabbarometer.org/survey-data/) — Public opinion surveys in 15+ MENA countries (since 2006). Metrics: political participation, democratic attitudes, religion in public life, gender equality, migration intentions.
+- [CAF World Giving Index](https://www.cafonline.org/insights/research/world-giving-index) — Charitable behaviour (142 countries, Gallup data). Metrics: % of population donating money, volunteering time, helping a stranger.
+- [Pew Research Global Attitudes Survey](https://www.pewresearch.org/global/) — Annual multi-country opinion survey (57+ countries across all waves). Metrics: bilateral favorability ratings, confidence in foreign leaders, views on democracy, geopolitical threat perceptions.
+- [Asian Barometer Survey](https://asianbarometer.org/) — Political values and governance in 19 Asian polities. Metrics: democratic support, institutional trust, democratic legitimacy scores, authoritarianism tolerance, political participation.
+- [Eurobarometer](https://europa.eu/eurobarometer/) — EU public opinion (27 member states, biannual since 1974). Metrics: EU institutional trust, democracy satisfaction, economic sentiment, attitudes on immigration and climate policy.
 
 ## Agriculture & Food Security
 
@@ -286,6 +357,10 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [Global Food Security Index (EIU)](https://impact.economist.com/sustainability/project/food-security-index) — Affordability, availability, quality, sustainability.
 - [FEWS NET](https://fews.net/) — Food security early warning.
 - [WFP HungerMap](https://hungermap.wfp.org/) — Real-time hunger monitoring.
+
+## Water & Sanitation
+
+- [WHO/UNICEF JMP](https://washdata.org/) — Authoritative WASH coverage data (200+ countries, SDG 6.1/6.2 custodian). Metrics: safely managed/basic/limited drinking water, sanitation, open defecation rates, hygiene (handwashing with soap); school and healthcare facility WASH; urban/rural and wealth quintile breakdowns.
 
 ## Transport & Infrastructure
 
@@ -305,6 +380,15 @@ Covers economic, social, political, environmental, military, and cultural metric
 - [Global Entrepreneurship Monitor (GEM)](https://www.gemconsortium.org/) — Entrepreneurial activity.
 - [Startup Genome](https://startupgenome.com/) — Startup ecosystems.
 - [StartupBlink](https://www.startupblink.com/) — Startup ecosystem ranking.
+- [WTO Tariff and Trade Data Platform](https://ttd.wto.org/) — Official tariff and trade statistics (170+ economies). Metrics: applied MFN tariff rates, bound duties, share of duty-free imports, trade flows by partner and product. Companion: World Tariff Profiles annual publication.
+- [Hinrich-IMD Sustainable Trade Index](https://www.imd.org/centers/wcc/world-competitiveness-center/rankings/sustainable-trade-index/) — Trade system sustainability (30 major economies, 72 indicators). Metrics: economic pillar (infrastructure, diversification, innovation), societal pillar (labour standards, inequality, health), environmental pillar (carbon intensity, resource dependence).
+
+## Labor & Workers
+
+- [ITUC Global Rights Index](https://www.ituc-csi.org/ituc-global-rights-index) — Workers' rights violations (148 countries, 1–5+ scale). Metrics: freedom of association, collective bargaining rights, right to strike, arbitrary arrests of union leaders. Published by the International Trade Union Confederation since 2014.
+- [ILOSTAT](https://ilostat.ilo.org/) — ILO primary statistical portal (300M+ data points). Metrics: employment rates, informality, wages, social protection coverage, labour productivity, gender employment gaps.
+- [Labour Rights Index (WageIndicator)](https://labourrightsindex.org/) — De jure labour law quality (145 countries, 46 criteria). Metrics: employment contracts, working time, minimum wage, maternity/paternity leave, termination rules, anti-discrimination laws.
+- [ILO–UNICEF Child Labour Statistics](https://ilostat.ilo.org/topics/child-labour/) — Global child labour estimates (107 countries). Metrics: prevalence (%) aged 5–17, hazardous child labour, breakdown by sector (agriculture/industry/services) and age group, trends 2000–2024. SDG 8.7 co-custodian dataset.
 
 ## Geo, Maps & Borders
 
